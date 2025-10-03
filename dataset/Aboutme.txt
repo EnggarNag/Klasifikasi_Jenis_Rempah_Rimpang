@@ -1,0 +1,5 @@
+Total Dataset 1200 gambar sebelum dibagi menjadi data pelatihan dan data pengujian dengan rincian :
+Jahe 300 gambar
+Kencur 300 gambar
+Kunyit 300 gambar
+Lengkuas 300 gambar
